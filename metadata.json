@@ -1,0 +1,6 @@
+{
+  "name": "MathPlay",
+  "description": "A gamified mathematics solver and interactive adventure map for elementary pupils to learn math through cute stories, animations, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
